@@ -1,0 +1,246 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 874px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: 70px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.6;
+  font-size: 1.25rem;
+  font-weight: 700;
+  text-transform: none;
+  margin: 9px 0 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 598px;
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 311px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-1 .u-image-1 {
+  height: auto;
+  background-image: url("https://assets.nicepagecdn.com/c8ec7fd7/4139860/images/hamzadegoat.jpg");
+  background-position: 50% 50%;
+  margin-top: 81px;
+  margin-bottom: -9px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 311px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  margin: 131px auto 0 27px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1rem;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  line-height: 2;
+  font-size: 1rem;
+  width: 735px;
+  margin: 41px auto 7px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    background-position: 0% 50%;
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 878px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1218px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 562px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 108px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 540px;
+    margin-bottom: 35px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1015px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 17px;
+    margin-bottom: 0;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin-top: 47px;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 11px;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 340px;
+    margin-bottom: 70px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 484px;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 252px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 854px;
+  height: 491px;
+  margin: -75px auto -164px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 440px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 208px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 470px;
+    height: 270px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 314px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 159px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 360px;
+    height: 207px;
+    margin-top: -38px;
+    margin-bottom: -10px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 530px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 239px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 150px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 196px;
+  }
+}
